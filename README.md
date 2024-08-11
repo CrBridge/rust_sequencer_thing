@@ -1,4 +1,4 @@
-#Rust sequencer
+# Rust sequencer
 
 This was just a mix of me trying to learn Rust, sound design and some digital signal processing. Audio playback is done with the Rodio crate. Includes
 some basic implementations of enveloping (pitch & attack/decay) and filtering (high & low pass). The basic sounds I made aren't the best, but it should hypothetically
